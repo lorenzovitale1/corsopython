@@ -1,0 +1,6 @@
+{
+  "contatti": [
+    {"nome": "Ada", "telefono": "00123", "chiamate": [2, 1]},
+    {"nome": "Leo", "telefono": "00456", "chiamate": [0, 3]}
+  ]
+}
